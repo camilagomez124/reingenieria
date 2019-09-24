@@ -7,10 +7,10 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="fa62b39f-bc07-42b6-9cc8-8c368a398da9">
     <bounds
-        x="714"
-        y="393"
-        width="120"
-        height="55"/>
+        x="828"
+        y="384"
+        width="145"
+        height="97"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_adb71006-6037-491b-ba76-17e996894067.xml#adb71006-6037-491b-ba76-17e996894067"/>
@@ -50,5 +50,17 @@
     <archimateElement
         xsi:type="archimate:BusinessService"
         href="BusinessService_87d734a5-46b0-46e7-bed4-82d6363fae94.xml#87d734a5-46b0-46e7-bed4-82d6363fae94"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="3a6209a8-96d7-45da-93d8-8aa99a8192d0">
+    <bounds
+        x="408"
+        y="393"
+        width="289"
+        height="160"/>
+    <archimateElement
+        xsi:type="archimate:Contract"
+        href="Contract_6bbcb1f6-15d6-472a-acf2-34f56f936cb5.xml#6bbcb1f6-15d6-472a-acf2-34f56f936cb5"/>
   </children>
 </archimate:ArchimateDiagramModel>
