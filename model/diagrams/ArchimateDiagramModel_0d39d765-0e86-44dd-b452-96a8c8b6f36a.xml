@@ -63,4 +63,16 @@
         xsi:type="archimate:Contract"
         href="Contract_6bbcb1f6-15d6-472a-acf2-34f56f936cb5.xml#6bbcb1f6-15d6-472a-acf2-34f56f936cb5"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="5dde8df2-e12e-4181-9704-9c1b780793f9">
+    <bounds
+        x="536"
+        y="280"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_5a1392e6-92c2-48a8-ab1c-04e956654853.xml#5a1392e6-92c2-48a8-ab1c-04e956654853"/>
+  </children>
 </archimate:ArchimateDiagramModel>
